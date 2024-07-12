@@ -2,7 +2,7 @@ A thesis template that approximates the style guidelines of the University of Le
 
 ## How to produce a version of your thesis showing changes (for sending to your examiners to show you've done your corrections)
 
-I used `\include` to split up my files while writing so using the `latexdiff` program on the web was insufficient in this case. Fortunately I had a local installation of TeX Live, so I used that. This worked on my university computer (MS Windows 11) that I didn't have admin rights for, since TeX Live comes bundled with the perl stuff necessary. 
+I used `\include` to split up my files while writing so using the `latexdiff` [program on the web](https://3142.nl/latex-diff/) was insufficient in this case. Fortunately I had a local installation of TeX Live, so I used that. This worked on my university computer (MS Windows 11) that I didn't have admin rights for, since TeX Live comes bundled with the perl stuff necessary. 
 
  1. Make a separate copy of the initial thesis before making any corrections, which we'll need later.
  2. Make all changes to the "new" version, and carry on until happy.
